@@ -6,3 +6,5 @@
 由于NACOS的服务管理工具包太大，无法上传，如果需要请自行下载：
 
 下载地址：https://github.com/alibaba/nacos/releases
+
+NACOS的管理工具默认用户名和密码为nacos
