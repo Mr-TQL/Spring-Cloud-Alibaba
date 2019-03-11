@@ -7,4 +7,4 @@
 
 下载地址：https://github.com/alibaba/nacos/releases
 
-NACOS的管理工具默认用户名和密码为nacos
+NACOS的管理工具默认用户名和密码为：nacos
